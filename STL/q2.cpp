@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include<C:/Users/a/Desktop/Algorithms/STL/q1.cpp>
+#include<D:/Users/a/Desktop/Algorithms/DSA_Problems/STL/q1.cpp>
 using namespace std;
 
 int main(){
