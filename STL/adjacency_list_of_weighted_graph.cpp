@@ -23,6 +23,7 @@ int main(){
         for(auto xp:l[i]){
             cout<<"("<<xp.first<<","<<xp.second<<") ";
         }
+        
         cout<<endl;
     }
 
